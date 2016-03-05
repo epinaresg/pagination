@@ -1,0 +1,19 @@
+{
+    "name": "epinaresg/pagination",
+    "type": "Library",
+    "description": "Paginator",
+    "authors": [
+        {
+            "name": "Elvis",
+            "email": "epinaresg@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^5.6.15"
+    },
+    "autoload": {
+        "psr-4": {
+            "Pagination\\": "src/"
+        }
+    }
+}
